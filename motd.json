@@ -1,0 +1,24 @@
+{
+  "dialogMaxWidth": "sm",
+  "index": 0,
+  "settings": {
+    "parentSpacing": 0,
+    "parentAlignItems": "center",
+    "parentJustifyContent": "center",
+    "parentStyle": {},
+    "permanent": true,
+    "freeloaderOnly": true,
+    "donorOnly": false,
+    "timeoutSeconds": 0
+  },
+  "titles": [
+    "🔥 LIVE bericht"
+  ],
+  "footerButtons": [],
+  "components": [
+    {
+      "type": "text",
+      "content": "Dit komt nu van extern 🎉"
+    }
+  ]
+}
